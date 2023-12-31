@@ -34,7 +34,7 @@ const MyImages = ({userId}) => {
     return (
         <>
             <Header/>
-            <div style={{paddingBottom: '10em'}}>
+            <div style={{paddingBottom: '20em'}}>
                 <ImagesList
                     images={images}
                     // titleText={titleText}
